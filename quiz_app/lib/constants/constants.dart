@@ -13,3 +13,16 @@ const kPrimaryGradient = LinearGradient(
 );
 
 const double kDefaultPadding = 20.0;
+
+
+
+const kSecdondaryColor = Color(0xFF8B94BC);
+const kGreednColor = Color(0xFF6AC259);
+const kRedCdolor = Color(0xFFE92E30);
+const kGrayCdolor = Color(0xFFC1C1C1);
+const kBlackdColor = Color(0xFF101010);
+const kPrimadryGradient = LinearGradient(
+  colors: [Color(0xFF46A0AE), Color(0xFF00FFCB)],
+  begin: Alignment.centerLeft,
+  end: Alignment.centerRight,
+);
